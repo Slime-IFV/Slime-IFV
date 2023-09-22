@@ -1,16 +1,15 @@
-### Hi there 👋
+![logo](https://github.com/Slime-IFV/Mypicture/blob/main/Mylogo.png)
+<h3>🪴關於</h3>
+<p>•24歲， 1999/12/31 ，對於程式設計很有興趣，努力成為一名軟體工程師</p>
+<hr>
 
-<!--
-**Slime-IFV/Slime-IFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>📦作品</h3>
+<p>•</p>
+<hr>
 
-Here are some ideas to get you started:
+<h3>🧰技能</h3>
+<p>•</p>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>💾紀錄</h3>
+<p>•</p>
